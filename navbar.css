@@ -1,0 +1,20 @@
+.img{
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDDt262KpTyhswp1yd83dA1HNHBsJRZSuWA&s");
+}
+.navbar{
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+    background-color: aqua;
+}
+.links{
+    display: flex;
+    gap: 39px;
+    list-style: none;
+}
