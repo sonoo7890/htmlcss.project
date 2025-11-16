@@ -1,0 +1,40 @@
+.marginbox{
+    width: 300px;
+    height: 300px;
+    background-color: chartreuse;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 60px;
+   /*short*/
+    margin: 10px 20px 30px 40px;
+}
+.element{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border: 10px solid red;
+    background-color: cyan;
+box-sizing: border-box;
+}
+.image{
+    height: 854px;
+    width: 1280px;
+   
+    /*background-image: url("https://cdn.pixabay.com/photo/2024/07/14/14/42/woman-8894656_1280.jpg");*/
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-size: cover;
+    background-image: url("https://i.pinimg.com/736x/54/7a/7f/547a7f9693b6ab79efcd963d2d760fcf.jpg")
+
+}
+.box{
+    height: 600px;
+    background-color: blue;
+}
+.boximg{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630");
+    height: 800px;
+}
