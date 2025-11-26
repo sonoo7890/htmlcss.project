@@ -1,0 +1,31 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+   /* background-color: aqua;*/
+    justify-content: center;
+    
+}
+.services h1{
+    font-size: 40px;
+    margin-bottom: -5px;
+    
+}
+.services p{
+    color: gray;
+}
+.services-cards{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    background-color: aquamarine;
+    align-items: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 50px;
+    
+}
