@@ -1,0 +1,77 @@
+
+.logo{
+    font-size: 190%;
+}
+.yellow{
+    color: yellow;
+    font-size: 185%;
+}
+.box-logo{
+    width: 50px;
+    height: 50px;
+   float: right;
+   
+}
+.box-logo{
+    width: 50px;
+    height: 50px;
+   float: right;
+   
+}
+.box-logo{
+    width: 50px;
+    height: 50px;
+   float: right;
+   
+}
+.top-bar {
+  background: #159ed6;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+
+.hero {
+  background: #123c86;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+}
+
+.hero img {
+  width: 300px;
+}
+
+
+.boxes {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  background: #f4f4f4;
+}
+
+.box {
+  background: white;
+  padding: 20px;
+  width: 25%;
+  text-align: center;
+  box-shadow: 0 0 10px lightgray;
+}
+
+button {
+  background: #159ed6;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
